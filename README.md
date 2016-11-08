@@ -14,7 +14,7 @@ Key Documents
 * [Code of Conduct - draft](codeOfConduct.md)
 * [Benfits of being a member - draft](benefits.md)
 * [Communications channels and online assets](comms.md)
-
+* [Consequences of Bad Behaviour](badBehaviour.md)
 
 Tools
 -----
