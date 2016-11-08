@@ -3,7 +3,7 @@ UK Hackspace Foundation
 
 This repository contains documentation specific to the foundation itself - work being done on and on behalf of the foundation, documentation of procedures and in-progress work.
 
-For documentation produced by the foundation to support UK Hackspacea, please visit the (https://github.com/ukhackspacefoundation/resource)[resource] repository.
+For documentation produced by the foundation to support UK Hackspacea, please visit the [resources repo](https://github.com/ukhackspacefoundation/resources).
 
 Tools
 -----
