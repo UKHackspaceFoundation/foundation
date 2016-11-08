@@ -14,4 +14,5 @@ Examples included in the code of conduct are just that, this is not an exhaustiv
     * Don’t mess around with other peoples’ projects and possessions without their permission.
 * Discussion of how to make our association more inclusive is welcome. Claims that this “has gone too far” aren’t.
 
+Breaches of the Code of Conduct are handled as per the [Consequences of Bad Behaviour](badBehaviour.md) document.
 If you have any concerns about someone’s behaviour please let us know either in person, or by emailing to@do.com.
