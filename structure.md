@@ -3,9 +3,10 @@
 Considerations for the Foundation, and obligations of its members:
 
 ## Overview
-* The Hackspace Foundation ("Organisation") exists to further its [goals](goals.md)
-* The Organisation is directed by a small, elected managing board
+* The Hackspace Foundation ("Organisation") exists to further its [goals](goals.md) to the [benefit](benefits.md) of its members
 * The Organisation's membership is made up of hackspaces and individuals, see Membership
+* All members are required to follow the [Code of Conduct](codeOfConduct.md)
+* The Organisation is directed by a small, elected managing board
 * The Organisation's focus is on high-level co-ordination and support, not the running of individual hackspaces
 * The Organisation is currently an [unincorporated member association](https://www.gov.uk/business-legal-structures/unincorporated-association)
 
