@@ -1,15 +1,17 @@
 UK Hackspace Foundation
 ========================
 
-This repository contains documentation specific to the foundation itself - work being done on and on behalf of the foundation, documentation of procedures and in-progress work.
+This repository contains documentation specific to the foundation itself - work being done on and on behalf of the foundation, documentation of procedures and in-progress work.  
+
+**If you are not yet familiar with the Foundation, start here: [Organisational Overview and Structure](structure.md)**
 
 For documentation produced by the foundation to support UK Hackspacea, please visit the [resources repo](https://github.com/ukhackspacefoundation/resources).
 
 Key Documents
 -------------
 
-* [Goals - draft](goals.md)
 * [Organisational structure - draft](structure.md)
+* [Goals - draft](goals.md)
 * [Definition of a hackspace (as used by the Hackspace Foundation) - draft](define.md)
 * [Code of Conduct - draft](codeOfConduct.md)
 * [Benfits of being a member - draft](benefits.md)
