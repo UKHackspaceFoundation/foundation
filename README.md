@@ -5,7 +5,9 @@ This repository contains documentation specific to the foundation itself - work 
 
 **If you are not yet familiar with the Foundation, start here: [Organisational Overview and Structure](structure.md)**
 
-For documentation produced by the foundation to support UK Hackspacea, please visit the [resources repo](https://github.com/ukhackspacefoundation/resources).
+To catchup on the summary of live telegram debate, see **[Telegram Notes](telegramNotes.md)** 
+
+For documentation produced by the foundation to support UK Hackspaces, please visit the [resources repo](https://github.com/ukhackspacefoundation/resources).
 
 Key Documents
 -------------
@@ -20,6 +22,8 @@ Key Documents
 
 Tools
 -----
+
+The current set of tools used to manage the Foundation's activities:
 
 * Task management [Issues](https://github.com/ukhackspacefoundation/foundation/issues)
 * Task management detailed (kanbanish) [Waffle IO](https://waffle.io/UKHackspaceFoundation)
