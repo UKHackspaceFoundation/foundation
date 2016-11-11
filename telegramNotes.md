@@ -248,7 +248,7 @@ members you have when writing guidelines etc. as they will be best placed to say
  * People can be manipulative in various ways: Physically, emotionally and psychologically
 * Membership should be capped at 150
 
-##Jonty's Progress Thought Dump
+##Foundation Progress Thought Dump
 
 I have a vast amount of reckons and things on all this, but it's not a thing I
 can unload while at work. We already have most of the things on
