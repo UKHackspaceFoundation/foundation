@@ -1,4 +1,8 @@
-Started with the intention of using the examples of Hackspaces to help one another to lead by good examples to document, adopt and share.
+#Notes from Telegram Conversation
+
+The following will be documented as copied from people's personal opinions and inputs, others will be documented as collected observations if they are more like decisions.
+
+The conversation on Telegram started with the intention of using the examples of Hackspaces to help one another to lead by good examples to document, adopt and share.
 
 The UK Hackspace Foundation can now be better supported by people whom have experience running a Hackspace for a number of years and it can now be time to collect this knowledge together to help each other and new Hackspaces.
 
@@ -20,15 +24,28 @@ Observations that there needed to be a way for people to allow their voices to b
 * Planning:
  * Trello
  * Google Drive
+ * Hackpad
+* Discussion
  * Telegram
  * Discourse
- * Hackpad
+ * Google Groups
 * Executing:
  * Github
 * Documenting:
  * Wiki
 
+Use of telegram always prompts discussion of making the chat accessible to everyone. Some prefer Slack, IRC, etc. There is currently no easy way to synchronise them and Telegram should be logged and recorded somewhere.
+
+There typically should also be a rule that all decisions should be at least posted to a mailing list, meaning everyone is notified and at least has a chance to respond.
+
+* Telegram to IRC
+ * https://github.com/FruitieX/teleirc/blob/develop/README.md
+* Discourse Mobile Apps
+ * https://meta.discourse.org/t/beta-testing-the-ios-mobile-app/49662
+
 It has been observed though, that a technical minded group tend to use Wiki, however it has a barrier to entry. People prefer to use chat rather than document.
+
+Also the technologies used should take into account when and where people use them, sometimes public or work internet connections restrict access to cloud services.
 
 #Hackspace vs Makerspace
 * Makerspace is being associated with schools / libraries
@@ -97,6 +114,10 @@ this scene"."
  * https://spacefed.net/wiki/index.php/SpaceFED
  * https://groups.google.com/forum/#!forum/interhackspace-pbx-project
 
+#Research
+* A survey should be setup to identify the current state of Hackspaces and what they want to see in a Foundation or be a part of it
+ * This survey should be sent out within a small group first as a test for questions / example answers
+
 #Identified Needed Items to 'Start and Maintain a Hackspace'
 
 ##Membership
@@ -111,6 +132,17 @@ a one­time joining fee that resets if your membership lapses
 * Regulations around storage are difficult to enforce, especially for large items and people like to hide things. This gets worse with multiple floors
  * This stops working with more than 350 members
 
+###Handling difficult people/persons
+This is a controversial topic and as such is one that should be taken on a case by case and contextual basis. There may not be a 'hard and fast rule' for this, though there are 'bottom lines' that can be followed.
+* An idea: https://opensource.com/tags/six-degrees-column
+* An idea: https://opensource.com/life/15/3/how-to-fire-community-members
+ * It was commented that 'lowering the bar' doesn't cause problems, it apmplifies existing ones
+ * It was also commented: "TL;DR version: each community is different and it's leaders have different
+values. If someone goes against what those leaders are doing in a non
+constructive way, remove them and send them to another community"
+* There are also notes at the bottom of this document in the 'Thought Dump'
+
+There should always be a Code of Conduct and this should apply to both members and directors/trustee/the board. There should also be consequences for breaking the Code of Conduct and rules, and these should always be enforced.
 
 ##Marketing
 * There is a requirement to help drive new members to a Hackspace, this requires some element of marketing understanding
@@ -136,6 +168,8 @@ a one­time joining fee that resets if your membership lapses
  * http://www.thepowertochange.org.uk/wp-content/uploads/2016/06/Community-Business-Fund-applicant-guidance-Round-2.pdf
 * Approaching councils has produced different results and should be undertaken by individual Hackspaces rather than by a Foundation on their behalf
  * Foundation may be able to provide support to those whom are uncomfortable to public speaking
+* The Foundation should have its own fundraising activities, that way it can aid Hackspaces that are in difficulty or need to start with the ability to buy equipment, services, etc.
+ * Whether or not these are loans are to be discussed
 
 ##Health, Safety and Security
 
@@ -159,7 +193,6 @@ a one­time joining fee that resets if your membership lapses
 * Recording CCTV is useful, live access is also useful, especially if a member is potentially a criminal and you want to spot when they're in the Hackspace to get the police onto them
 * LondonHS gives access only to trustees
 
-
 ###Conversation on Junior/Minors in the Hackspace
 * Children at the age of 12+ often have exposure to equipment in schools after suitable induction and have an adult around
  * This can include band saws and pillar drills
@@ -177,7 +210,6 @@ members you have when writing guidelines etc. as they will be best placed to say
 ###Insurance
 * In 2016 a master scheme was setup and is available
 * http://www.hackspace.org.uk/wiki/Starting_a_Hackerspace#Insurance
-
 
 ##Heating
 * Reduce the space you have to keep warm
@@ -268,6 +300,8 @@ Then when it comes up, see if you should bin it"
 * Open source software every Hackspace should have
  * GIMP
  * Inkscape
+* Hackspaces shouldn't be afraid of adopting non open source software, and where possible should have an 'escape vector'.
+ * For example CNC design software is typically not open source, but is free for non profits and currently open source software isn't great
 
 ##Engagement Community Activities
 * 'Destruct-a-Day' inspired encouraging children and others to get involved and take things apart.
@@ -310,7 +344,39 @@ Then when it comes up, see if you should bin it"
  * People can be manipulative in various ways: Physically, emotionally and psychologically
 * Membership should be capped at 150
 
-##Foundation Progress Thought Dump
+#Foundation Progress Thought Dump
+
+##How the Foundation could function
+* The HSF needs its own board. I also think for elections, every
+recognized space gets one vote ­ they should nominate a person who will
+vote on their behalf. (They are free to instruct that person to get a vote of
+the space's board and vote accordingly, but that's an internal matter.)
+Possibly also it should be possible to become an at­large member / personal
+member by paying a subscription fee.
+* Like the idea that the HSF is a foundation of hackspaces and not
+a foundation of people. It keeps it from being captured overly much by one
+space.
+* Consideration:
+ * Is it also worth suggesting that members of the HSF should either be
+current or alumni hackspace organisers? Though I guess that gets flattened
+out in elections if there's an unknown
+* Don't  form a company until we need
+to, but we can adopt an appropriate structure from the beginning.
+* It's not entirely clear how people will be voted into being on the board for the Foundation, however it should mainly be focussed on people from member Hackspaces, there should also be capacity for individuals whom aren't members of Hackspaces (but perhaps used to be or have helped with Hackspaces)
+* Thanks to EMF there are good contacts with the media that could be leveraged
+ * Pushing multimedia of one Hackspace or the Foundation can help raise awareness for every other Hackspace in the country, which has been noticed when mentioning London Hackspace
+ * Organisations should also be approached such as IEEE, BCS, IET
+* Should the Hackspace Foundation be an unincorporated member association or a CLG? And/or a Charity?
+* The working definition of 'Hackspace' for the purpose of the Foundation is not meant to imply what is right or wrong, it's setting the terms of engagement for the Foundation and what we're attempting to promote and support.
+* There might be a large foundation hosted install for new spaces who want a discourse list
+ * https://meta.discourse.org/t/multiple-discourses-multiple-containers-one-server/35367
+ * https://meta.discourse.org/t/multisite-configuration-with-docker/14084/26
+
+Most of this discussion now exists on https://forum.hackspace.org.uk
+
+##Origins of the Foundation
+
+The below documents some suggestions and thoughts from those involved in the original Hackspace Foundation group, it is worth reading as a back story and includes useful information, including comments on dealing with troublesome person(s)
 
 I have a vast amount of reckons and things on all this, but it's not a thing I
 can unload while at work. We already have most of the things on
