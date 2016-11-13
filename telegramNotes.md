@@ -33,6 +33,11 @@ Observations that there needed to be a way for people to allow their voices to b
  * Github
 * Documenting:
  * Wiki
+* Communicating
+ * Helpmonks
+* Share of login details:
+ * LastPass
+ * Keepass
 
 Use of telegram always prompts discussion of making the chat accessible to everyone. Some prefer Slack, IRC, etc. There is currently no easy way to synchronise them and Telegram should be logged and recorded somewhere.
 
@@ -52,6 +57,12 @@ There typically should also be a rule that all decisions should be at least post
 It has been observed though, that a technical minded group tend to use Wiki, however it has a barrier to entry. People prefer to use chat rather than document.
 
 Also the technologies used should take into account when and where people use them, sometimes public or work internet connections restrict access to cloud services.
+
+There was discussion about sharing of login details, and that password manages such as LastPass and Keepass exist, though not everyone could understand the need for such a utility, it tends to boil down to:
+
+* Making sure no singular person has sole access over everything
+* That where systems do not have the ability to share management/administration, that this can be shared (eg. Twitter can share access to an account, however a free Hootsuite or website admin is a singular login)
+* Security of the account, if something like LastPass is used, the password doesn't have to be divulged to the person accessing the account, and access can be revoked without having to reset the original account password and all of its security questions
 
 #Hackspace vs Makerspace
 * Makerspace is being associated with schools / libraries
@@ -111,11 +122,24 @@ this scene"."
 #Trademarking 'Hackspace'
 * Company in Germany attempted to trademark 'makerspace' however it was deemed 'too generic' / 'lack of distinctive character'
  * https://register.dpma.de/DPMAregister/marke/register#stammdaten
-* The logo is to undergo a redesign again, with the help of Matthew Irvine Brown, current for reference:
+
+#Logo
+The logo is to undergo a redesign again, with the help of Matthew Irvine Brown, current for reference:
+
  * https://dominicmorrow.org/tshirts/gallery/uk-hackspace-foundation-tshirt/
  * http://www.irvinebrown.com/?p=242
 * We have access to the hack.space website domain thanks to Ian Norton.
+* There are concerns over the current logo and potential redesign:
+ * Its angular and diamond shape nature make some think it looks like a swastika in combination with being red and circular
+ * The addition of 'hammers' make it similar to communistic symbolism
+ * If we use spanners instead of hammers, it's similar to Hackaday's logo
+ * The current logoo has been adopted, adjusted, altered by some Hackspaces at present and helps unify in a way
 
+Any logo redesign should hopefully be:
+* Monochrome-able
+* CNC route-able / 3D Printable
+
+It was also commented that each Hackspace should have their own logo that's visually different but have a connection.
 
 #Collaborative inter-hackspace activities
 * Hackathon to work on Hackspace beneficial projects such as entry systems or member management
@@ -142,6 +166,7 @@ a one­time joining fee that resets if your membership lapses
 * 'Well Volunteered' as a retort should be replaced with questions and an outlet for getting involved productively
 * Regulations around storage are difficult to enforce, especially for large items and people like to hide things. This gets worse with multiple floors
  * This stops working with more than 350 members
+* We should check other groups for examples and rules, eg. e Handforth Model Engineering Society rules and constitution has been collected but it is in .dtf (dead tree format, aka paper)
 
 ###Handling difficult people/persons
 This is a controversial topic and as such is one that should be taken on a case by case and contextual basis. There may not be a 'hard and fast rule' for this, though there are 'bottom lines' that can be followed.
@@ -361,10 +386,6 @@ Then when it comes up, see if you should bin it"
  * Suggestion of a karma kredit system that equates to cash, 1 kredit is 45 min worth of work, 1 kredit is £1, this was decided against as it's effectively employing staff and discrediting/devaluing membership
  * A 'kredit' system also puts more focus on the kredit than the task, making it negative
  * Determined that infrequent, public rewards work better as incentive than a regular, known reward.
- * Implement gamification in the Hackspace.
- * http://www.chorewars.com/
- * https://openbadges.org/
- * https://docs.google.com/document/d/18gspIWJXMOaR76cABrRgFu0FBEFx1EeMBcUNsAqWkpg/edit
 * Encourate members to do 10 minutes of tidying when they come in, doesn't take long, cleans things up
 * Encouragement and involvement inspired by Hacman
  * https://hacman.org.uk/we-need-your-help/
@@ -374,6 +395,14 @@ Then when it comes up, see if you should bin it"
 * Blog/log daily activities:
  * http://wiki.richmondmakerlabs.uk/index.php/Blog_2016
  * http://wiki.oxhack.org/wiki/Daily_activity
+
+Implement gamification in the Hackspace.
+ * http://www.chorewars.com/
+ * https://openbadges.org/
+ * https://docs.google.com/document/d/18gspIWJXMOaR76cABrRgFu0FBEFx1EeMBcUNsAqWkpg/edit
+ * Hacman are considering Badges: https://docs.google.com/document/d/18gspIWJXMOaR76cABrRgFu0FBEFx1EeMBcUNsAqWkpg/edit
+ * Consider badges carefully, especially for repeatable tasks, bronze, silver and gold tiered badges may also not be appropriate for all tasks and judging how something is mastered is 'difficult'
+ * Also consider that badges could or should 'degrade' in their tiers to be maintainable for repeat tasks
 
 #Discussion and Consultation
 * If there's any change in Hackspace tools, utilities or policy it's always good to have an open and transparent discussion
@@ -411,7 +440,7 @@ Management of Telegram conversation so far:
 - once we have that. We need to re­open access for orgas of other groups so as not to disenfranchise people straight away.
 - It can form part of the where­we're­at for the website
 
-- Write 'accessible' versions
+- Create human 'accessible' versions
 
 ##How the Foundation could function
 * The HSF needs its own board. I also think for elections, every
@@ -441,6 +470,7 @@ to, but we can adopt an appropriate structure from the beginning.
 * How will member hackspaces 'sign up' and what will they use to authenticate with?
 * What platforms could be used to store and share stuff with member hackspaces, rather than the platforms used to plan?
 * £1,000 has been donated for Hackspace Foundation use
+* It has been suggested that, short of directors, the Hackspace Foundation could run like Valve Software: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 
 Most of this discussion now exists on https://forum.hackspace.org.uk
 
