@@ -395,6 +395,24 @@ Then when it comes up, see if you should bin it"
 
 #Foundation Progress Thought Dump
 
+Identified potential setup steps:
+- merge Russ/Jonty's 2014 pass at articles into the structural stuff discussed here
+- align on the voting rights/power of individual members vs spaces (e.g. doesn't seem right individual members having equal rights to entire spaces)
+- Actually start on the website,
+ - Get some kind of mailing list that works for asynchronous long­lived communications. 
+- Collect contact details for all spaces so we can approach them, 
+- Start writing an approach email, 
+ - Ideally have a decent onboarding document describing what we're trying to achieve 
+- Write all the rest of the guff around the foundation, who we are, and what we do.
+
+Management of Telegram conversation so far:
+­ We need a summary of everything that has gone on so far ­ this is to be a working document
+
+- once we have that. We need to re­open access for orgas of other groups so as not to disenfranchise people straight away.
+- It can form part of the where­we're­at for the website
+
+- Write 'accessible' versions
+
 ##How the Foundation could function
 * The HSF needs its own board. I also think for elections, every
 recognized space gets one vote ­ they should nominate a person who will
