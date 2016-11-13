@@ -36,6 +36,12 @@ Observations that there needed to be a way for people to allow their voices to b
 
 Use of telegram always prompts discussion of making the chat accessible to everyone. Some prefer Slack, IRC, etc. There is currently no easy way to synchronise them and Telegram should be logged and recorded somewhere.
 
+* It has been suggested that a chat room:
+ * Exists for the 'public' aka member of Hackspaces that mix with the Foundation members/trustees/directors
+ * Also exists for the representatives selected to be part of the Foundation on behalf of the Hackspaces
+ * Potentially another which mainly has the directors, if such a tier is to exist
+ * It may need to be redecided what this chat method would be (slack, etc)
+
 There typically should also be a rule that all decisions should be at least posted to a mailing list, meaning everyone is notified and at least has a chance to respond.
 
 * Telegram to IRC
@@ -105,6 +111,11 @@ this scene"."
 #Trademarking 'Hackspace'
 * Company in Germany attempted to trademark 'makerspace' however it was deemed 'too generic' / 'lack of distinctive character'
  * https://register.dpma.de/DPMAregister/marke/register#stammdaten
+* The logo is to undergo a redesign again, with the help of Matthew Irvine Brown, current for reference:
+ * https://dominicmorrow.org/tshirts/gallery/uk-hackspace-foundation-tshirt/
+ * http://www.irvinebrown.com/?p=242
+* We have access to the hack.space website domain thanks to Ian Norton.
+
 
 #Collaborative inter-hackspace activities
 * Hackathon to work on Hackspace beneficial projects such as entry systems or member management
@@ -152,6 +163,14 @@ There should always be a Code of Conduct and this should apply to both members a
  * Social Media
  * Local Newspapers (some do have websites)
 
+##Financial Management
+* Good Banks:
+ * Barclays has a good relationship with some Hackspaces, including London, Teesside, Manchester and EMF
+ * Triodos (https://www.triodos.co.uk/en/business/)
+* Avoid Banks, due to Hackspace experience:
+ * Co-Op
+ * HSBC
+
 ##Funding
 * An easy way is to sign up to a wholesaler for snacks/drink
  * Costco works well for individuals
@@ -173,6 +192,15 @@ There should always be a Code of Conduct and this should apply to both members a
 
 ##Health, Safety and Security
 
+###Member Management System
+Some Hackspaces use some type of the following:
+* Manually tracking members with a spreadsheet and looking at payments in bank accounts
+* FreeIPA for data storage and management with a script checking GoCardless and bank transfers and then manages access
+* Auth0 and GoCardless with DynamoDB table, API endpoints use AWS lambda thanks to AWS free tier
+* Database for registrations, maps access for the door and knows if they've paid
+* No Hackspace management system appears to be documented thoroughly
+* See also "Hackspace Entry/Access System" below
+
 ###Hackspace Entry/Access System
 * Each Hackspace has enacted its own
 * Most are not completely documented so it's difficult to adapt
@@ -182,6 +210,22 @@ There should always be a Code of Conduct and this should apply to both members a
 * Even Universities have trouble with card access systems:
  * https://www.northumbria.ac.uk/static/5007/llspdf/about/PRN175.pdf
  * http://www.lancaster.ac.uk/iss/info/supplierdocs/network/LU-Access-Control-Spec-v1c.pdf
+
+The Foundation should have some fundamental guidance for such systems as new Hackspaces may not have the persons with capabilities or knowledge to put their own in place.
+
+Hosting access control servers outside of the space is a bad idea, mainly as the internet is not reliable, but also because communications with it is not entirely securable.
+
+Current systems:
+* Swindon: https://github.com/swindonmakers/AccessibleThingController
+* HACMan: https://github.com/HACManchester/haccess-code
+* Leeds: https://github.com/leedshackspace/lhs-marvin
+* NottingHack:
+ * https://github.com/NottingHack/hms
+ * https://github.com/NottingHack/hms2
+
+Other systems:
+* Open Access COntrol: http://www.accxproducts.com/content/
+* CarontePass: https://github.com/torehc/carontepass-v2
 
 ###CCTV
 * Should be installed 'from day one' if possible
@@ -224,9 +268,11 @@ members you have when writing guidelines etc. as they will be best placed to say
  * Draft excluders
  * Thermal imagers, if available, can help to identify risk areas
 
-###Induction
-* Certification to verify 'completed induction'
-* Documentation, how to use equipment, memory joggers after induction complete
+###Induction to hardware
+* Certification could be created to verify 'completed induction'
+* Documentation:
+ * how to use equipment
+ * memory joggers after induction complete
 
 ###Risk Assessments
 * Required for purpose of insurance
@@ -325,6 +371,9 @@ Then when it comes up, see if you should bin it"
 * Often it is the case that people find problems, though do not feel they have the authority to do anything about it, or the confidence to do so.
 * Notes on difficulties 'getting stuff done' and participation:
  * https://docs.google.com/document/d/1qtRAT_xYd0l3piPjPFxzghJyoTu-8pTSK-_hCMsYUlI/edit
+* Blog/log daily activities:
+ * http://wiki.richmondmakerlabs.uk/index.php/Blog_2016
+ * http://wiki.oxhack.org/wiki/Daily_activity
 
 #Discussion and Consultation
 * If there's any change in Hackspace tools, utilities or policy it's always good to have an open and transparent discussion
@@ -371,12 +420,19 @@ to, but we can adopt an appropriate structure from the beginning.
 * There might be a large foundation hosted install for new spaces who want a discourse list
  * https://meta.discourse.org/t/multiple-discourses-multiple-containers-one-server/35367
  * https://meta.discourse.org/t/multisite-configuration-with-docker/14084/26
+* How will member hackspaces 'sign up' and what will they use to authenticate with?
+* What platforms could be used to store and share stuff with member hackspaces, rather than the platforms used to plan?
+* £1,000 has been donated for Hackspace Foundation use
 
 Most of this discussion now exists on https://forum.hackspace.org.uk
 
 ##Origins of the Foundation
 
 The below documents some suggestions and thoughts from those involved in the original Hackspace Foundation group, it is worth reading as a back story and includes useful information, including comments on dealing with troublesome person(s)
+
+* Prototype Articles of Association:
+ * https://www.irccloud.com/pastebin/Lhxokuip/
+ * https://github.com/UKHackspaceFoundation/foundation/blob/master/structure.md
 
 I have a vast amount of reckons and things on all this, but it's not a thing I
 can unload while at work. We already have most of the things on
