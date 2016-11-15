@@ -25,16 +25,22 @@ Observations that there needed to be a way for people to allow their voices to b
  * Trello
  * Google Drive
  * Hackpad
+ * Gantt
 * Discussion
  * Telegram
+ * mattermost
  * Discourse
  * Google Groups
+ * IRC
+ * XMPP
 * Executing:
  * Github
+ * GitLab
 * Documenting:
  * Wiki
 * Communicating
  * Helpmonks
+ * phplist
 * Share of login details:
  * LastPass
  * Keepass
@@ -92,7 +98,8 @@ the UK, and we have the evidence to show that."
  * http://www.youtube.com/watch?v=1sQx2kTScH4
 * Some businesses / persons have issue with 'Hackspace' and have refused to work with such companies
  * "We did actually try to do a sigma aldrich order and get turned down before
-I did the legal entity registration iirc."
+I did the legal entity registration iirc.
+"
 * It's been observed anecdotally that:
  * Group of 40+ yr old males, engineers devoutly couldn't understand that 'Hackspace' wasn't associated with hacking
  * Group of 20+ yr old females, programmers, also couldn't.
@@ -110,7 +117,8 @@ anyway)
 NOTE: When I set out the guidelines for What Is A Space, they don't have
 to have hackspace in the name or anywhere near it. Call yourself Big Daves
 Fiddling Emporium for all it matters, it's about saying "yes we are part of
-this scene"."
+this scene".
+"
 
 #Website interface to help automate some steps
 * Production of a front-end website
@@ -157,7 +165,7 @@ It was also commented that each Hackspace should have their own logo that's visu
 
 ##Membership
 * So the "just joining to use a tool" thing can be partially solved by introducing
-a one­time joining fee that resets if your membership lapses
+a oneÂ­time joining fee that resets if your membership lapses
  * This varies depending on if the Hackspace allows commercial activities
 * Pay as you feel lowers the barrier to joining compared to what people get out of a Hackspace
 
@@ -269,8 +277,9 @@ Other systems:
  * Do items need supervision for the safety of the child, or the expense of the item? This should partly govern the decision.
 * Taking an opinion from a small person can help to understand what guides them best, for example:
  * "She says age ratings don't make sense as it's down to skill and experience, instead her feeling is that a scale like a volume button slider with 0 being
-"free to use" and 10 being "adult hands­on (helping you) supervision" and other tools along that scale. She also likes the idea of labelling with an eye (adult within eyesight) and a hand (adult within arm's length) to show the level of supervision required. The little person really appreciated being asked her opinion and thought about it carefully before answering. I would recommend involving any young
-members you have when writing guidelines etc. as they will be best placed to say what will work for them. And they will have a greater commitment to the outcome by being involved. Kids & teens are often far better at doing this than adults give them credit for.. :) (Apologies if I have just spoken to any grannies about eggs, I've spent a long time working with 11­18yr olds and they still surprise me!)"
+"free to use" and 10 being "adult handsÂ­on (helping you) supervision" and other tools along that scale. She also likes the idea of labelling with an eye (adult within eyesight) and a hand (adult within arm's length) to show the level of supervision required. The little person really appreciated being asked her opinion and thought about it carefully before answering. I would recommend involving any young
+members you have when writing guidelines etc. as they will be best placed to say what will work for them. And they will have a greater commitment to the outcome by being involved. Kids & teens are often far better at doing this than adults give them credit for.. :) (Apologies if I have just spoken to any grannies about eggs, I've spent a long time working with 11Â­18yr olds and they still surprise me!)
+"
 
 ##Maintenance and Tidying
 * Box rota for items lying around
@@ -332,7 +341,8 @@ covers you legally in case the person isn't as nice and trustworthy as we'd
 all like.
 Hardware on loan should likely have the process of asking if people have a
 purpose for it, first, or have asked for it. Which may reduce the risk of "this
-is nice to have" and it becomes an ornament. Really needs to see someone set a "reevaluation period" on all tools and
+is nice to have" and it becomes an ornament.
+ Really needs to see someone set a "reevaluation period" on all tools and
 donations
 Then when it comes up, see if you should bin it"
 
@@ -383,7 +393,7 @@ Then when it comes up, see if you should bin it"
  * Some consider free membership for limited time
  * Possibly vouchers for the tuck shop
 * Discussion of a 'reward scheme'
- * Suggestion of a karma kredit system that equates to cash, 1 kredit is 45 min worth of work, 1 kredit is £1, this was decided against as it's effectively employing staff and discrediting/devaluing membership
+ * Suggestion of a karma kredit system that equates to cash, 1 kredit is 45 min worth of work, 1 kredit is Â£1, this was decided against as it's effectively employing staff and discrediting/devaluing membership
  * A 'kredit' system also puts more focus on the kredit than the task, making it negative
  * Determined that infrequent, public rewards work better as incentive than a regular, known reward.
 * Encourate members to do 10 minutes of tidying when they come in, doesn't take long, cleans things up
@@ -428,26 +438,26 @@ Identified potential setup steps:
 - merge Russ/Jonty's 2014 pass at articles into the structural stuff discussed here
 - align on the voting rights/power of individual members vs spaces (e.g. doesn't seem right individual members having equal rights to entire spaces)
 - Actually start on the website,
- - Get some kind of mailing list that works for asynchronous long­lived communications. 
+ - Get some kind of mailing list that works for asynchronous longÂ­lived communications. 
 - Collect contact details for all spaces so we can approach them, 
 - Start writing an approach email, 
  - Ideally have a decent onboarding document describing what we're trying to achieve 
 - Write all the rest of the guff around the foundation, who we are, and what we do.
 
 Management of Telegram conversation so far:
-­ We need a summary of everything that has gone on so far ­ this is to be a working document
+Â­ We need a summary of everything that has gone on so far Â­ this is to be a working document
 
-- once we have that. We need to re­open access for orgas of other groups so as not to disenfranchise people straight away.
-- It can form part of the where­we're­at for the website
+- once we have that. We need to reÂ­open access for orgas of other groups so as not to disenfranchise people straight away.
+- It can form part of the whereÂ­we'reÂ­at for the website
 
 - Create human 'accessible' versions
 
 ##How the Foundation could function
 * The HSF needs its own board. I also think for elections, every
-recognized space gets one vote ­ they should nominate a person who will
+recognized space gets one vote Â­ they should nominate a person who will
 vote on their behalf. (They are free to instruct that person to get a vote of
 the space's board and vote accordingly, but that's an internal matter.)
-Possibly also it should be possible to become an at­large member / personal
+Possibly also it should be possible to become an atÂ­large member / personal
 member by paying a subscription fee.
 * Like the idea that the HSF is a foundation of hackspaces and not
 a foundation of people. It keeps it from being captured overly much by one
@@ -469,7 +479,7 @@ to, but we can adopt an appropriate structure from the beginning.
  * https://meta.discourse.org/t/multisite-configuration-with-docker/14084/26
 * How will member hackspaces 'sign up' and what will they use to authenticate with?
 * What platforms could be used to store and share stuff with member hackspaces, rather than the platforms used to plan?
-* £1,000 has been donated for Hackspace Foundation use
+* Â£1,000 has been donated for Hackspace Foundation use
 * It has been suggested that, short of directors, the Hackspace Foundation could run like Valve Software: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
 
 Most of this discussion now exists on https://forum.hackspace.org.uk
@@ -490,15 +500,15 @@ planning to take a proper run at it once he resigns from LHS in a couple of
 months time at the next AGM and has some headspace.
 Frankly I should apologise that it's taken so long, but all the LHS stuff
 happened, then EMF, and there's only so much time in the day.
-We had a meeting mid last­year with a load of people about how to
+We had a meeting mid lastÂ­year with a load of people about how to
 formalise things and made decisions, then the world fell apart for me.
 Brief summary:
 
-* We'd like to sort out the foundation as a non­profit association with a
+* We'd like to sort out the foundation as a nonÂ­profit association with a
 limited set of guidelines for joining (so it doesn't end up being loads of
 random parties).
 * We'd like to publish a set of tools and guidelines that spaces can optionally
-use to get started, but nothing is mandated ­ they don't even have to join
+use to get started, but nothing is mandated Â­ they don't even have to join
 the foundation unless they want to.
 * We'd like to actually trademark "hackspace" and assign it to the
 foundation, so all spaces own it together. This is because O'Reilly and other
@@ -507,12 +517,12 @@ countries, and we definitively have the right to use it here because we
 coined it. We also spoke to the Newcastle Makespace about trademarking
 Makespace for similar reasons and they're keen.
 (We'd not likely act on misuse, but it's a safety thing, just in case)
-* There's already been stellar work on sorting out group­rate insurance,
+* There's already been stellar work on sorting out groupÂ­rate insurance,
 and the foundation should work together to enable more things like that.
 We've got a list of contacts three miles long who want to deal with the
 foundation and not each space individually.
 * We'd like to use our existing contacts with councils, property owners, and
-government to actually foster starting new spaces in meanwhile space ­
+government to actually foster starting new spaces in meanwhile space Â­
 short lived spaces lasting a year or so, constantly fluxing but with persistent
 community and good links between them.
 (FYI, I am intending to start a new (small) space in London experimenting
@@ -525,13 +535,13 @@ year to actually get everyone together to talk about things, and to forge new co
 it's allocated and used, but we need to formalise the structure to make this clear.
 
 To be EXTRA CLEAR: We aim for the foundation to be run by _all spaces_
-as a meta­organisation that helps tie us together and promote the cause. It's not about being on top and dicatating.
+as a metaÂ­organisation that helps tie us together and promote the cause. It's not about being on top and dicatating.
 I should also point out that this is what Russ and I have been trying to do
 since 2009. We actually aimed to do this in parallel with starting LHS, but when that grew faster than expected we had to devote time elsewhere.
 FWIW: Both Russ and I have agreed sorting the foundation is our top
 priority once he's extracated himself. We're restructing EMF at the same time so we're going to have a year of formalising more organisations.
 Basically saying we're happy to take on the load as neither of us have to worry about running spaces, and holy hell do I know how much work that is.
-Oh, I should also say: If the lot of you just want to go off on one and Do A Thing we won't stop you ­ I'm not saying we are The One True Way.
+Oh, I should also say: If the lot of you just want to go off on one and Do A Thing we won't stop you Â­ I'm not saying we are The One True Way.
 But this is literally what we've been planning for a number of years. It would have happened a lot sooner if we didn't start EMF.
 FWIW until we aim to actually have money or things owned by an
 organisation, there can be a formal structure and membership but it doesn't _need_ to be a legal one. This is why we've not done it before now
@@ -542,7 +552,7 @@ like to do around registering interest in starting spaces and linking people tog
 
 We wrote a definition that included all existing hackspaces, I need to dig it
 out along with everything else. Not exact, but it was something like: Must be
-not­for­profit, must by member owned­and governed under a one­memberone­vote
+notÂ­forÂ­profit, must by member ownedÂ­and governed under a oneÂ­memberoneÂ­vote
 system, must actually describe itself as a hackspace or
 hackerspace but doesn't have to have that in the name.
 My point being that they themselves have to describe
@@ -566,7 +576,7 @@ you can find an exception it's worth talking about.
 I intend to unload onto the HSF wiki so everyone can edit, then when people
 are happy my plan was to move the entire HSF wiki to
 wiki.hackspace.org.uk and replace the main website with a shiny new one
-with all the finalised information. Probably the GH­pages one for now until
+with all the finalised information. Probably the GHÂ­pages one for now until
 someone has time to throw at a register/find a hackspace thing.
 
 I've been talking about a "space website in a box" for years now, something
@@ -583,13 +593,13 @@ obvious really.
 Also spaces using shared space nearly always flounder until they move into
 their own space
 
-­ Building an actual community rather than people paying toward a goal
-­ Building a community at all
-­ Fostering a shared sense of responsibility & ownership of the space when
+Â­ Building an actual community rather than people paying toward a goal
+Â­ Building a community at all
+Â­ Fostering a shared sense of responsibility & ownership of the space when
 you get it
-­ Maintaining that community over the long run
-­ Stopping bad actors from destroying it
-­ Stopping unintentionally bad actors from destroying it
+Â­ Maintaining that community over the long run
+Â­ Stopping bad actors from destroying it
+Â­ Stopping unintentionally bad actors from destroying it
 
 FWIW the best thing you can do for your space is have a strong board that actually bans people early and often based on their own view of the
 person's behaviour. My mistake in the past was writing rules and
@@ -606,7 +616,8 @@ reprisals, nobody will complain about them. If the trustees don't take
 enough action in the long run, they seem powerless and people stop
 bothering to report things.
 
-"If it's a single other person the trustees can judge the situation, but when it's a trustee themselves should they be judged as more trustworthy if they've shown themselves to be so over >5 years?"
+"If it's a single other person the trustees can judge the situation, but when it's a trustee themselves should they be judged as more trustworthy if they've shown themselves to be so over >5 years?
+"
 
 FWIW my answer to this is "trust the trustee, ban the member for 3
 months" as the ongoing lack of trustees taking action and the trustee feeling
@@ -631,7 +642,7 @@ Oh, and I would _immediately_ introduce a rule saying anyone who has had
 a warning or been banned in the year before the election is not allowed to
 stand.
 
-I've been pondering a space where you have a 3­6 month trial period and
+I've been pondering a space where you have a 3Â­6 month trial period and
 two complaints about your behaviour from existing members lead to
 automatic ejection.
 Yes it can be abused, but in terms of defending the community as an
@@ -647,5 +658,5 @@ Everything ends, and communities are incredibly fragile.
 
 Honestly, the thing I've learned most from all this is how awful people
 actually are. I had never encountered pathalogical liars, sociopaths, and
-full­on criminals before starting a space. It's been eye­opening, especially
+fullÂ­on criminals before starting a space. It's been eyeÂ­opening, especially
 when you realise literally years after knowing the
