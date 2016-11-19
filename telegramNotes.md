@@ -1,3 +1,5 @@
+[TOC]
+
 #Notes from Telegram Conversation
 
 The following will be documented as copied from people's personal opinions and inputs, others will be documented as collected observations if they are more like decisions.
@@ -383,6 +385,11 @@ Then when it comes up, see if you should bin it"
  * Inkscape
 * Hackspaces shouldn't be afraid of adopting non open source software, and where possible should have an 'escape vector'.
  * For example CNC design software is typically not open source, but is free for non profits and currently open source software isn't great
+ * In true spirit of Hackspace/DIY it is understandable to treat the dependable nature of these propitary tools (be it hardware or software) as a bug that needs fixing.
+
+##Relationship with companies
+* If the foundation lists particular companies they come with the clear warning that it is not an endorsement. 
+* But what about A&A ISP?
 
 ##Engagement Community Activities
 * 'Destruct-a-Day' inspired encouraging children and others to get involved and take things apart.
@@ -413,6 +420,7 @@ Implement gamification in the Hackspace.
  * Hacman are considering Badges: https://docs.google.com/document/d/18gspIWJXMOaR76cABrRgFu0FBEFx1EeMBcUNsAqWkpg/edit
  * Consider badges carefully, especially for repeatable tasks, bronze, silver and gold tiered badges may also not be appropriate for all tasks and judging how something is mastered is 'difficult'
  * Also consider that badges could or should 'degrade' in their tiers to be maintainable for repeat tasks
+ * habitrpg sounds like fun.
 
 #Discussion and Consultation
 * If there's any change in Hackspace tools, utilities or policy it's always good to have an open and transparent discussion
