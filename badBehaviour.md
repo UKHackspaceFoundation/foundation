@@ -12,7 +12,7 @@ The board will only ban repeat offenders who persistently demonstrate unwillingn
 * This policy applies to both members and non-members who interact with the Foundation, either though the Foundation's various online tools or at physical events/gathering.
 * A person may be banned from the Foundation if they are in violation of the Rules or [Code of Conduct](codeOfConduct.md), if they are causing persistent annoyance, or if they have the potential to harm other members/guests of the Foundation.
 * Before the formal banning procedure is entered into, the HSF board must make every attempt to resolve the issue informally.
-* However, in the case of direct physical violence towards any person in the Foundation, a member has the authority to immediately ban the offender for one month and refer the case to the board.
+* However, in the case of direct physical violence towards any person involved in the Foundation, a member has the authority to immediately ban the offender for one month and refer the case to the board.
 
 
 ## Warnings
