@@ -27,6 +27,11 @@ These are things we intend to offer to member Hackspaces, some are already agree
 ## Aspirational
 
 * Centralised hosting for websites, etc
+* Federation network for websites and applications:
+    * Diaspora/gnu social/mediagoblin nodes fir interspace social media:'anybody know how a atomic force microscope works'(similar to rework network)
+    * API booking visitors pass for a certain equipment. 'You have granted access to another space just to use this machine for 1 day'
+    * email, xmpp, ...
+    * 'trackable' Specialized and seldomly used tools that travel the spaces. E.G. 200mm spanner.
 * Supplier discounts:
     * Avnet
     * Mouser
