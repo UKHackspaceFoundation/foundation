@@ -24,7 +24,7 @@ Considerations for the Foundation, and obligations of its members:
     * A pro-rate of their membership level (e.g. 0.5% of membership income); or 
     * A percentage of operating surplus
     * Potentiall mandated after the member Hackspace has reached a certain turnover threshold (e.g. £10,000k) or operating surplus
-* Member Spaces may each appoint up to 2 people to the Organisation as representatives ("Representatives")
+* Member Spaces must each appoint up to 2 people to the Organisation as representatives ("Representatives")
     * These Representatives hold 10 votes between them
     * Representatives do not have to pay an individual membership fee
 
