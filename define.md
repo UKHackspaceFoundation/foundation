@@ -14,7 +14,7 @@
     * has a primary object of providing a shared workspace to its members,
     * has a bank account,
     * has ten or more members,
-    * has a democratically elected board of at least 2 directors,
+    * has a democratically elected board of at least 3 directors,
     * conducts its business by allowing each member over 16 one vote,
     * fosters a tolerent and inclusive community (see [Code of Conduct](codeOfConduct.md)), 
     * encourages engagement with, and opening to, the public,
