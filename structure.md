@@ -4,16 +4,16 @@ Considerations for the Foundation, and obligations of its members:
 
 ## Overview
 * The Hackspace Foundation ("Organisation") exists to further its [goals](goals.md) to the [benefit](benefits.md) of its members
-* The Organisation's membership is made up of hackspaces and individuals, see Membership
+* The Organisation's membership is made up of hackspaces (Member Spaces) and individuals (Supporter Members), see [Articles of Association](https://github.com/UKHackspaceFoundation/constitution/blob/master/articles.pdf) and the **Membership** section below
 * All members are required to follow the [Code of Conduct](codeOfConduct.md)
 * The Organisation is directed by a small, elected managing board
 * The Organisation's focus is on high-level co-ordination and support, not the running of individual hackspaces
-* The Organisation is currently an [unincorporated member association](https://www.gov.uk/business-legal-structures/unincorporated-association)
+* The Organisation is currently in the process of incoporating (request submitted Jan 2017)
 
 ## Membership
 * There are two classes of membership to the Organisation:
-    * Individual members ("Members"), and
     * Member Hackspaces ("Member Spaces")
+    * Supporter Members ("Members"), and
 
 ### Member Spaces
 * An organisation may join as a Member Space if it meets the Foundation's [definition of a Hackspace](define.md)
@@ -28,27 +28,18 @@ Considerations for the Foundation, and obligations of its members:
     * These Representatives hold 10 votes between them
     * Representatives do not have to pay an individual membership fee
 
-### Individual Members
-* The Organisation has one or more Individual Members who support its objectives.
-* Individual Members may apply to join the association and will be accepted at the discretion of the board
-* Individual Members cannot also be a Representative of a Member Space
-* Individual Members get a single vote in organisational decisions
-* Individual Members must pay a yearly membership fee of £10.
-* If an Individual Member's membership fee goes unpaid for two months after being requested, they will cease to be a member.
+### Supporter Members
+* The Organisation has one or more Supporter Members who support its objectives.
+* Supporter Members may apply to join the association and will be accepted at the discretion of the board
+* Supporter Members cannot also be a Representative of a Member Space
+* Supporter Members get a single vote in organisational decisions
+* Supporter Members must pay a yearly membership fee of £10.
+* If an Supporter Member's membership fee goes unpaid for two months after being requested, they will cease to be a member.
 
 ## Board
 
 * The Foundation maintains an elected board to oversee general operation/administration whom:
-    * must be Individual Members,
+    * must be Supporter Members,
     * should not also be active directors of a Hackspace,
     * are expected to have past experience of managing a Hackspace, or contributing to it
-* The board members shall be (re)elected annually
-
-
-## Longer Term
-Longer term, the Organisation may transition into an alternate legal structure, potentially one of:
-* [CLG](https://www.gov.uk/business-legal-structures/limited-company)
-* [CIC (form of CLG)](https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies)
-
-[General background on legal structures for non-profit organisations](http://www.resourcecentre.org.uk/information/legal-structures-for-not-for-profit-organisations/)
-
+* See the [Articles of Association](https://github.com/UKHackspaceFoundation/constitution/blob/master/articles.pdf) for more details
