@@ -13,7 +13,7 @@ Considerations for the Foundation, and obligations of its members:
 ## Membership
 * There are two classes of membership to the Organisation:
     * Member Hackspaces ("Member Spaces")
-    * Supporter Members ("Members"), and
+    * Supporter Members ("Members")
 
 ### Member Spaces
 * An organisation may join as a Member Space if it meets the Foundation's [definition of a Hackspace](define.md)
@@ -37,7 +37,6 @@ Considerations for the Foundation, and obligations of its members:
 * If an Supporter Member's membership fee goes unpaid for two months after being requested, they will cease to be a member.
 
 ## Board
-
 * The Foundation maintains an elected board to oversee general operation/administration whom:
     * must be Supporter Members,
     * should not also be active directors of a Hackspace,
