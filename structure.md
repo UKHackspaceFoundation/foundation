@@ -8,7 +8,7 @@ Considerations for the Foundation, and obligations of its members:
 * All members are required to follow the [Code of Conduct](codeOfConduct.md)
 * The Organisation is directed by a small, elected managing board
 * The Organisation's focus is on high-level co-ordination and support, not the running of individual hackspaces
-* The Organisation is currently in the process of incoporating (request submitted Jan 2017)
+* The Organisation was incorporated on the 9th January 2017
 
 ## Membership
 * There are two classes of membership to the Organisation:
