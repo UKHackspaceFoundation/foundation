@@ -19,13 +19,9 @@ Considerations for the Foundation, and obligations of its members:
 ### Member Spaces
 * An organisation may join as a Member Space if it meets the Foundation's [definition of a Hackspace](define.md)
 * Applications to join the Organisation as a Member Space will be reviewed and accepted at the discretion of the board
-* Member Spaces must pay a minimum yearly membership fee of £20, but are encouraged to contribute more.
+* Member Spaces must pay a minimum yearly membership fee of £20, but the recommended donation for 2017 is 2% of surplus - this will be reconsidered by the membership in 2018
 * If an Member Space's membership fee goes unpaid for two months after being requested, it will cease to be a member.
-* In the future, members may be required to pay a contribution towards the Foundation based on:
-    * A pro-rate of their membership level (e.g. 0.5% of membership income); or 
-    * A percentage of operating surplus
-    * Potentially mandated after the member Hackspace has reached a certain turnover threshold (e.g. £10,000k) or operating surplus
-* Member Spaces must each appoint up to 2 people to the Organisation as representatives ("Representatives")
+* Member Spaces must each appoint 1-2 people to the Organisation as representatives ("Representatives")
     * These Representatives hold 1 Member Space vote between them, subject to the weighting applied to Member Spaces
     * Representatives do not have to pay an individual membership fee
 
