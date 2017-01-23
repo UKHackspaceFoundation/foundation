@@ -1,6 +1,6 @@
 # Mission Statement
 
-The UK Hackspace Foundation exists to support and further the goals of the [define.md](Hackspace movement) across the UK. We are a not-for-profit democratic organisation that links the spaces together, allowing geographically distributed Hackspace groups to share knowledge, resources, and collectively plan for the future.
+The UK Hackspace Foundation exists to support and further the goals of the [Hackspace movement](define.md) across the UK. We are a not-for-profit democratic organisation that links the spaces together, allowing geographically distributed Hackspace groups to share knowledge, resources, and collectively plan for the future.
 
 The Foundation presents a unified front that enables us to communicate and negotiate with organisations for the benefit of our member spaces, while also ensuring that approaches from external organisations are directed to the most appropriate space. We present a single point of contact for the Hackspaces across the UK and perform outreach on behalf of the entire movement, attempting to raise public awareness and interest in their local spaces.
 
