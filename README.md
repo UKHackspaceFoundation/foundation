@@ -5,7 +5,7 @@ This repository contains documentation specific to the foundation itself - work 
 
 **If you are not yet familiar with the Foundation, start here: [Mission Statement](mission.md)**
 
-To catchup on the summary of live telegram debate, see **[Telegram Notes](telegramNotes.md)** 
+For live discussion, see the **[Forum](https://forum.hackspace.org.uk/)**, or to catch-up on the preceding discussion up to Nov 2017, see **[Telegram Notes](telegramNotes.md)** 
 
 For documentation produced by the foundation to support UK Hackspaces, please visit the [resources repo](https://github.com/ukhackspacefoundation/resources).
 
@@ -13,10 +13,10 @@ Key Documents
 -------------
 
 * [Mission Statement](mission.md)
-* [Organisational structure - draft](structure.md)
-* [Definition of a hackspace (as used by the Hackspace Foundation) - draft](define.md)
-* [Code of Conduct - draft](codeOfConduct.md)
-* [Benfits of being a member - draft](benefits.md)
+* [Organisational structure](structure.md)
+* [Definition of a hackspace (as used by the Hackspace Foundation)](define.md)
+* [Code of Conduct](codeOfConduct.md)
+* [Benfits of being a member](benefits.md)
 * [Communications channels and online assets](comms.md)
 * [Consequences of Bad Behaviour](badBehaviour.md)
 
