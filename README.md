@@ -32,3 +32,10 @@ The current set of tools used to manage the Foundation's activities:
 * Structured documents and private info (eg member details)  [Google Drive](https://drive.google.com/drive/folders/0B2I_ryMKXUGJckROVGQxRnNIVmc)
 * Lists.. (obsolete?) [Trello](https://trello.com)
 * Managing access to all the above, and queries [Helpmonks](https://helpmonks.com)
+
+Website
+-------
+
+* Work in progress at: (http://www.hackspace.org.uk/)
+* Source: [GitHub](https://github.com/UKHackspaceFoundation/website)
+* Server: Digital Ocean 
