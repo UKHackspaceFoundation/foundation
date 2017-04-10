@@ -7,7 +7,10 @@ Communication channels and other online assets/organising tools used by the Foun
 * Email
     * Helpmonks setup with contact@hackspace.org.uk
 * Telegram
-    * Active group to supplement Discourse: https://t.me/UKHackspaceFoundation
+    Active groups to supplement Discourse
+    * Main group: https://t.me/UKHackspaceFoundation
+    * Tasks & status group: https://t.me/joinchat/AAAAAAj2awAp_98fA8L8nA
+    * Web Development group: TBC
 * Internet Relay Chat (IRC)
     * Public chat room: irc://irc.freenode.net/hackspace / http://webchat.freenode.net/?channels=hackspace / #Hackspace on Freenode 
 * Google Groups
