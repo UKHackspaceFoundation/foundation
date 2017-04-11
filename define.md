@@ -10,7 +10,7 @@
     * is member owned/operated,
     * is an unincorporated or incorporated association,
         * If incorporated, then it must be a not-for-profit / non-profit
-    * is based in the UK,
+    * is based in the UK, Republic of Ireland, or Crown Dependencies,
     * has a primary object of providing a shared workspace to its members,
     * has a bank account,
     * has ten or more members,
