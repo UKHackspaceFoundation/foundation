@@ -3,7 +3,7 @@
 This code of conduct applies to your behaviour on all Hackspace
 Foundation communication channels, and any events that we run:
 
-* We want to be inclusive; do not engage in homophobic, racist, transphobic, ableist, sexist, or otherwise exclusionary behaviour. Do not make exclusionary jokes, even “ironically”.
+* Our association is inclusive; do not engage in homophobic, racist, transphobic, ableist, xenophobic, sexist, or otherwise exclusionary behaviour. Do not make exclusionary jokes, even “ironically”.
 * Don’t harass people. Physical contact or sexual attention without enthusiastic consent is harassment, or if taken to its extreme, abuse. Wearing revealing clothes or flirting are not necessarily consent. If you’re asked to stop, do so. If you’re not sure the person is happy with what you are doing, ask.
 * Aggression and elitism are unwelcome – knowledge is not a competition.
 * We’d rather you ask about gender than assume, and if you get it wrong, apologise. Mistakes happen, however you should always use the person’s preferred pronouns when addressing or discussing them.
