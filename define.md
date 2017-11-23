@@ -6,7 +6,7 @@
 
 ## Foundation Requirements
 
-* The UK Hackspace Foundation considers an organisation to be eligibleble to join as a [Member Space](structure.md), if it:
+* The UK Hackspace Foundation considers an organisation to be eligible to join as a [Member Space](structure.md), if it:
     * is member owned/operated,
     * is an unincorporated or incorporated association,
         * If incorporated, then it must be a not-for-profit / non-profit
