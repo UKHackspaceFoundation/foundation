@@ -1,14 +1,9 @@
-# Requirements for full membership
-
-## Hackspaces
-A hackspace (also known as a Hackerspace or Makerspace) is a member run and operated workspace where people with similar interests can meet, socialize and collaborate.  See [hackerspace](https://en.wikipedia.org/wiki/Hackerspace) on Wikipedia.
-
-## Membership Requirements
+# Membership Requirements for Member Spaces
 
 An organisation is eligible to join the UK Hackspace Foundation as a [Member Space](structure.md) if it:
     * supports the goals of the UK Hackspace Foundation
     * is a non-profit association
-    * has the primary aim of providing a shared physical workspace to its members for the purposes of science, technology, engineering, and art
+    * has the primary aim of providing a shared workshop to its members for the purposes of science, technology, engineering, and art
     * is democratically controlled by its members, who have equal voting rights and actively participate in policies and making decisions
     * has a bank account
     * is based in the UK, Republic of Ireland, or Crown Dependencies
@@ -17,3 +12,7 @@ An organisation is eligible to join the UK Hackspace Foundation as a [Member Spa
     * does not require affiliation with another organization, such as a university or employer, to be a full member
 
 Applications to join will be decided by the Membership Committee, with appeals decided by the Board.
+
+## Interpretation Notes
+
+An organisation is considered "democratically controlled" if the membership has the legal right to exercise control over the organisation, for example by removing directors or calling a general meeting. This does not impose a requirement to use voting for day-to-day operations.
