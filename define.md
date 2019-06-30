@@ -19,3 +19,5 @@ Applications to join will be decided by the Membership Committee, with appeals d
 An organisation will not normally meet these conditions unless it has its own legal identity, for example as an incorporated or unincorporated association.
 
 An organisation is considered "democratically controlled" if the membership has the legal right to exercise control over the organisation, for example by removing directors or calling a general meeting. This does not impose a requirement to use voting for day-to-day operations.
+
+A member space which only grants membership to members of marginalised groups is considered to have a "non-discriminatory" membership policy if this action would be allowed by [s158 of the Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/section/158).
