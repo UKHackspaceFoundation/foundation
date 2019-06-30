@@ -15,4 +15,6 @@ Applications to join will be decided by the Membership Committee, with appeals d
 
 ## Interpretation Notes
 
+An organisation will not normally meet these conditions unless it has its own legal identity, for example as an incorporated or unincorporated association.
+
 An organisation is considered "democratically controlled" if the membership has the legal right to exercise control over the organisation, for example by removing directors or calling a general meeting. This does not impose a requirement to use voting for day-to-day operations.
