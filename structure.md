@@ -17,7 +17,7 @@ Considerations for the Foundation, and obligations of its members:
 * Votes are weighted 80:20 towards Member Spaces - see [Articles of Association](https://github.com/UKHackspaceFoundation/constitution/blob/master/articles.pdf) for details
 
 ### Member Spaces
-* An organisation may join as a Member Space if it meets the Foundation's [definition of a Hackspace](define.md)
+* An organisation may join as a Member Space if it meets the Foundation's [requirements for membership](requirementsForSpaceMembership.md)
 * Applications to join the Organisation as a Member Space will be reviewed and accepted at the discretion of the board
 * Member Spaces must pay a minimum yearly membership fee of £20, but the recommended donation for 2017 is 2% of surplus - this will be reconsidered by the membership in 2018
 * If an Member Space's membership fee goes unpaid for two months after being requested, it will cease to be a member.

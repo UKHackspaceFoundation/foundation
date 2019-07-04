@@ -2,7 +2,7 @@
 
 ##Associated organisations
 
-Normally we consider a hackspace to [be X](define.md) but inclusion in the foundation is at the discretion of the directors and reasons will be given at the time of your application if it is rejected
+Normally we consider a hackspace to be an organisation that meets our [requirements for membership](requirementsForSpaceMembership.md) but inclusion in the foundation is at the discretion of the directors and reasons will be given at the time of your application if it is rejected
 
 ##Removal of Membership
 
