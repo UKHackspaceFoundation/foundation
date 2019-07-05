@@ -14,7 +14,7 @@ Key Documents
 
 * [Mission Statement](mission.md)
 * [Organisational structure](structure.md)
-* [Definition of a hackspace (as used by the Hackspace Foundation)](define.md)
+* [Requirements for membership](requirementsForSpaceMembership.md)
 * [Code of Conduct](codeOfConduct.md)
 * [Benfits of being a member](benefits.md)
 * [Communications channels and online assets](comms.md)
