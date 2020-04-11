@@ -26,7 +26,6 @@ Tools
 The current set of tools used to manage the Foundation's activities:
 
 * Task management [Issues](https://github.com/ukhackspacefoundation/foundation/issues)
-* Task management detailed (kanbanish) [Waffle IO](https://waffle.io/UKHackspaceFoundation)
 * Live chat [Telegram](http://telegram.org)
 * Wider discussions and decision making [Discourse](http://forum.hackspace.org.uk)
 * Structured documents and private info (eg member details)  [Google Drive](https://drive.google.com/drive/folders/0B2I_ryMKXUGJckROVGQxRnNIVmc)

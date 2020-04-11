@@ -22,7 +22,7 @@ Communication channels and other online assets/organising tools used by the Foun
     * Hosts master list of hackspaces, insurance calculator and some other working documents
 * Discourse
     * For decisions and discussions: https://forum.hackspace.org.uk/
-* Waffle.io
+* Waffle.io (died, use github directly)
     * Todo list and ideas for structuring the foundation
 * Trello
     * Superceded by Waffle.io
